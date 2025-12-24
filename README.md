@@ -129,24 +129,15 @@ Code Reviews
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api?username=ratheeshvh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratheeshvh&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ratheeshvh&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Certifications & Achievements
 
 <div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=ratheeshvh&theme=tokyonight&margin-w=10" 
-    alt="GitHub Trophies" />
+    <img width="1188" height="925" alt="aws" src="https://github.com/user-attachments/assets/0dd1ee8e-78d3-4cf1-b139-4add10598160" />
 </div>
 
 ---
